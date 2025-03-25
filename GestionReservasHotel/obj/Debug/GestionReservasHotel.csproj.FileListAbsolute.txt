@@ -1,0 +1,10 @@
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\obj\Debug\GestionReservasHotel.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\obj\Debug\GestionReservasHotel.Form1.resources
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\obj\Debug\GestionReservasHotel.Properties.Resources.resources
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\obj\Debug\GestionReservasHotel.csproj.GenerateResource.cache
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\obj\Debug\GestionReservasHotel.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\bin\Debug\GestionReservasHotel.exe.config
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\bin\Debug\GestionReservasHotel.exe
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\bin\Debug\GestionReservasHotel.pdb
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\obj\Debug\GestionReservasHotel.exe
+C:\Users\wilso\OneDrive\Escritorio\Nueva carpeta\GestionReservasHotel\GestionReservasHotel\obj\Debug\GestionReservasHotel.pdb

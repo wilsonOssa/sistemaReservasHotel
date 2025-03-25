@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\reservafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\reservafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\gestorreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\gestorreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\habitacionvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\habitacionvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\habitacionestandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\habitacionestandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|c:\\users\\wilso\\onedrive\\escritorio\\nueva carpeta\\gestionreservashotel\\gestionreservashotel\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BB5DA7-C4CE-464E-9EA4-2AC1622C337E}|GestionReservasHotel\\GestionReservasHotel.csproj|solutionrelative:gestionreservashotel\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1000,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Form1.Designer.cs",
+              "RelativeToolTip": "GestionReservasHotel\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:05:21.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\Form1.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Form1.cs",
+              "RelativeToolTip": "GestionReservasHotel\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:54:08.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\ReservaFactory.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\ReservaFactory.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\ReservaFactory.cs",
+              "RelativeToolTip": "GestionReservasHotel\\ReservaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:44:08.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestorReservas.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\GestorReservas.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\GestorReservas.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\GestorReservas.cs",
+              "RelativeToolTip": "GestionReservasHotel\\GestorReservas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:42:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HabitacionVIP.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\HabitacionVIP.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\HabitacionVIP.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\HabitacionVIP.cs",
+              "RelativeToolTip": "GestionReservasHotel\\HabitacionVIP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:41:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\Form1.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionReservasHotel\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:36:56.477Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HabitacionEstandar.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\HabitacionEstandar.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\HabitacionEstandar.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\HabitacionEstandar.cs",
+              "RelativeToolTip": "GestionReservasHotel\\HabitacionEstandar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:40:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Reserva.cs",
+              "RelativeDocumentMoniker": "GestionReservasHotel\\Reserva.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Escritorio\\Nueva carpeta\\GestionReservasHotel\\GestionReservasHotel\\Reserva.cs",
+              "RelativeToolTip": "GestionReservasHotel\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:38:10.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
